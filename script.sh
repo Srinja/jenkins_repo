@@ -1,4 +1,4 @@
 #!/bin/bash
 who
 cal
-echo "Script pulled from Github and executed by Jenkins" > output.txt
+echo "a new module has been added" 
